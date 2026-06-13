@@ -112,12 +112,6 @@ Foodie-Hub/
 └── README.md
 
 ---
-##👩‍💻 Developer
-
-Ankita Nitin Chavan
-GitHub: https://github.com/ankita12365
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -153,12 +147,22 @@ npm start
 ### Open in browser:
 http://localhost:3000
 
+
 ---
 
+## 👩‍💻 **Developer**
 
-##⭐ Future Improvements
-Payment gateway integration (Razorpay / Stripe)
-AI-based food recommendations
-Real GPS-based rider tracking
-Mobile app (React Native)
-Push notifications for orders
+**Ankita Nitin Chavan**
+
+GitHub:  
+[https://github.com/ankita12365](https://github.com/ankita12365)
+
+---
+
+## ⭐ **Future Improvements**
+
+- Payment gateway integration (Razorpay / Stripe)
+- AI-based food recommendations
+- Real GPS-based rider tracking
+- Mobile app (React Native)
+- Push notifications for orders
