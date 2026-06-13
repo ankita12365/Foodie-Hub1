@@ -115,6 +115,7 @@ Foodie-Hub/
 
 ## ⚙️ Setup Instructions
 
+```md
 ### 1. Clone the repository
 
 ```bash
