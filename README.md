@@ -115,23 +115,33 @@ Foodie-Hub/
 
 ## ⚙️ Setup Instructions
 
-```md
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/ankita12365/Foodie-Hub1.git
 cd Foodie-Hub1
+```
+
 ### 2. Install dependencies
+
 ```bash
 npm install
-### 3. Setup MySQL Database
-``SQL
-CREATE DATABASE food_ordering_system;
+```
 
-###Import schema:
+### 3. Setup MySQL Database
+
+```sql
+CREATE DATABASE food_ordering_system;
+```
+
+### Import schema:
+
 ```bash
 mysql -u root -p food_ordering_system < schema.sql
-### 4. Create .env file
+```
+
+### 4. Create `.env` file
+
 ```env
 DB_HOST=localhost
 DB_USER=root
@@ -141,29 +151,36 @@ DB_PORT=3306
 
 SESSION_SECRET=your_secret_key
 PORT=3000
+```
+
 ### 5. Run the project
-``bash
+
+```bash
 npm start
+```
 
-### Open in browser:
+### Open in browser
+
+```
 http://localhost:3000
-
+```
 
 ---
 
-## 👩‍💻 **Developer**
+## 👩‍💻 Developer
 
 **Ankita Nitin Chavan**
 
 GitHub:  
-[https://github.com/ankita12365](https://github.com/ankita12365)
+https://github.com/ankita12365
 
 ---
 
-## ⭐ **Future Improvements**
+## ⭐ Future Improvements
 
 - Payment gateway integration (Razorpay / Stripe)
 - AI-based food recommendations
 - Real GPS-based rider tracking
 - Mobile app (React Native)
+- Push notifications for orderst Native)
 - Push notifications for orders
