@@ -112,6 +112,12 @@ Foodie-Hub/
 └── README.md
 
 ---
+##👩‍💻 Developer
+
+Ankita Nitin Chavan
+GitHub: https://github.com/ankita12365
+
+---
 
 ## ⚙️ Setup Instructions
 
@@ -149,10 +155,6 @@ http://localhost:3000
 
 ---
 
-##👩‍💻 Developer
-
-Ankita Nitin Chavan
-GitHub: https://github.com/ankita12365
 
 ##⭐ Future Improvements
 Payment gateway integration (Razorpay / Stripe)
