@@ -116,6 +116,7 @@ Foodie-Hub/
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/ankita12365/Foodie-Hub1.git
 cd Foodie-Hub1
