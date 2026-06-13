@@ -86,11 +86,13 @@ Foodie Hub is a full-stack food delivery platform that simulates a real-world on
 ---
 
 ## 📁 Project Structure
+
+```text
 Foodie-Hub/
 │
 ├── public/
 │   ├── css/
-│   ├── images/
+│   └── images/
 │
 ├── views/
 │   ├── partials/
@@ -110,7 +112,7 @@ Foodie-Hub/
 ├── package.json
 ├── .env
 └── README.md
-
+```
 ---
 
 ## ⚙️ Setup Instructions
